@@ -65,8 +65,8 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Debarghya}{Das}{ \urlstyle{same}\href{http://debarghyadas.com}{debarghyadas.com}| \href{http://fb.co/dd}{fb.co/dd}\\
-\href{mailto:deedy@fb.com}{deedy@fb.com} | 607.379.5733 | \href{mailto:dd367@cornell.edu}{dd367@cornell.edu}
+\namesection{Brett}{Goodwin}{
+\Newport News, Virginia | 804-807-2217 | href{mailto:bgoodwin12@gmail.com}{bgoodwin12@gmail.com}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -83,60 +83,60 @@
 
 \section{Education} 
 
-\subsection{Cornell University}
-\descript{MEng in Computer Science}
-\location{Dec 2014 | Ithaca, NY}
+\subsection{University of Virginia}
+\descript{BS in Aerospace Engineering}
+\location{May 2014 | Charlottesville, VA}
 \sectionsep
 
-\subsection{Cornell University}
-\descript{BS in Computer Science}
-\location{May 2014 | Ithaca, NY}
-College of Engineering \\
-Magna Cum Laude\\
-\location{ Cum. GPA: 3.83 / 4.0 \\
-Major GPA: 3.9 / 4.0}
-\sectionsep
+%\subsection{Cornell University}
+%\descript{BS in Computer Science}
+%\location{May 2014 | Ithaca, NY}
+%College of Engineering \\
+%Magna Cum Laude\\
+%\location{ Cum. GPA: 3.83 / 4.0 \\
+%Major GPA: 3.9 / 4.0}
+%\sectionsep
 
-\subsection{La Martiniere for Boys}
-\location{Grad. May 2011|  Kolkata, India}
-\sectionsep
+%\subsection{La Martiniere for Boys}
+%\location{Grad. May 2011|  Kolkata, India}
+%\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     LINKS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Links} 
-Facebook:// \href{https://facebook/dd}{\bf dd} \\
-Github:// \href{https://github.com/deedydas}{\bf deedydas} \\
-LinkedIn://  \href{https://www.linkedin.com/in/debarghyadas}{\bf debarghyadas} \\
-YouTube://  \href{https://www.youtube.com/user/DeedyDash007}{\bf DeedyDash007} \\
-Twitter://  \href{https://twitter.com/debarghya_das}{\bf @debarghya\_das} \\
-Quora://  \href{https://www.quora.com/Debarghya-Das}{\bf Debarghya-Das}
+%\section{Links} 
+%Facebook:// \href{https://facebook/dd}{\bf dd} \\
+%Github:// \href{https://github.com/deedydas}{\bf deedydas} \\
+%LinkedIn://  \href{https://www.linkedin.com/in/debarghyadas}{\bf debarghyadas} \\
+%YouTube://  \href{https://www.youtube.com/user/DeedyDash007}{\bf DeedyDash007} \\
+%Twitter://  \href{https://twitter.com/debarghya_das}{\bf @debarghya\_das} \\
+%Quora://  \href{https://www.quora.com/Debarghya-Das}{\bf Debarghya-Das}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COURSEWORK
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Coursework}
-\subsection{Graduate}
-Advanced Machine Learning \\
-Open Source Software Engineering \\
-Advanced Interactive Graphics \\
-Compilers + Practicum \\
-Cloud Computing \\
-Evolutionary Computation \\
-Defending Computer Networks \\
-Machine Learning \\
-\sectionsep
 
 \subsection{Undergraduate}
-Information Retrieval \\
-Operating Systems \\
-Artificial Intelligence + Practicum \\
-Functional Programming \\
-Computer Graphics + Practicum \\
-{\footnotesize \textit{\textbf{(Research Asst. \& Teaching Asst 2x) }}} \\
-Unix Tools and Scripting \\
+Aerodynamics and Fluid Mechanics \\
+Air-Breathing Propulsion \\
+Astronautics \\
+Aerospace Structures and Materials \\
+Software Development Methods \\
+{\textit{\textbf{(Independent Design) }}} \\
+High-Altitude, Long-Endurance UAV, submitted to NASA Design Challenge (2014) \\
+
+\subsection{Project Management Professional Certificate}
+Government Acquisitions \\
+Life Cycle Management \\
+Federal Budgeting \\
+Quality Management \\
+Risk Management \\
+Development and Testing \\
+Sustainment \\
+International Logistics\\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
@@ -168,33 +168,41 @@ AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
-\runsubsection{Facebook}
-\descript{| Software Engineer }
-\location{Jan 2015 - Present | New York, NY}
+\runsubsection{US Air Force}
+\descript{| Director of Maintenance Operations }
+\location{Nov 2022 - Present | Newport News, VA}
+\item Schedules, directs, and monitors 600 personnel from 17 specialties, equipment worth $194 million for 53 combat-ready F-22s.
 \sectionsep
 
-\runsubsection{Coursera}
-\descript{| KPCB Fellow + Software Engineering Intern }
-\location{June 2014 – Sep 2014 | Mountain View, CA}
+\runsubsection{US Air Force}
+\descript{| Deputy Branch Chief, Maintenance Operations and Systems }
+\location{Jan 2021 – Nov 2022 | Newport News, VA}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightemize}\item 52 out of 2500 applicants chosen to be a KPCB Fellow 2014.
-\item Led and shipped Yoda - the admin interface for the new Phoenix platform. 
-\item Full-stack developer - Wrote and reviewed code for JS using Backbone, Jade, Stylus and Require and Scala using Play
+\begin{tightemize}
+\item Led Headquarters-based team of 14 to oversee 5,600 personnel from 10 career specialties, 34 units, and 1,100 aircraft.
+\item Developed mathematical model for fighter flight scheduling; applied stochastic modeling in Python-based tool to determine probability of success for a proposed schedule; deployed web-based tool to 15 bases; increased forecasting accuracy by 9%.
+\item Assessed gaps in the sustainment for $587 million combat pod modernization strategy; determined repair contracts could not keep pace with expected attrition and modified procurement timeline; reduced budget 30% while upholding readiness.
+\item Facilitated rollout of $70 million Department of Defense additive manufacturing initiative; designed 3D models of Chinese SA-21 air defense radars and missile launchers using Blender; provided training aids to intelligence analysis cell.
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Google}
+\runsubsection{US Air Force}
 \descript{| Software Engineering Intern }
 \location{May 2013 – Aug 2013 | Mountain View, CA}
 \begin{tightemize}
-\item Worked on the YouTube Captions team, in Javascript and Python to plan, to design and develop the full stack to add and edit Automatic Speech Recognition captions. In production.\item Created a backbone.js-like framework for the Captions editor.\end{tightemize}
+\item Worked on the YouTube Captions team, in Javascript and Python to plan, to design and develop the full stack to add and edit Automatic Speech Recognition captions. In production.
+\item Created a backbone.js-like framework for the Captions editor.
+\end{tightemize}
 \sectionsep
 
 \runsubsection{Phabricator}
 \descript{| Open Source Contributor \& Team Leader}
 \location{Jan 2013 – May 2013 | Palo Alto, CA \& Ithaca, NY}
 \begin{tightemize}
-\item Phabricator is used daily by Facebook, Dropbox, Quora, Asana and more.\item I created the Meme generator and more in PHP and Shell.\item Led a team from MIT, Cornell, IC London and UHelsinki for the project.\end{tightemize}
+\item Phabricator is used daily by Facebook, Dropbox, Quora, Asana and more.
+\item I created the Meme generator and more in PHP and Shell.
+\item Led a team from MIT, Cornell, IC London and UHelsinki for the project.
+\end{tightemize}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
