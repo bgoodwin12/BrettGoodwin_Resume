@@ -88,18 +88,13 @@
 \location{May 2014 | Charlottesville, VA}
 \sectionsep
 
-%\subsection{Cornell University}
-%\descript{BS in Computer Science}
-%\location{May 2014 | Ithaca, NY}
-%College of Engineering \\
-%Magna Cum Laude\\
-%\location{ Cum. GPA: 3.83 / 4.0 \\
-%Major GPA: 3.9 / 4.0}
-%\sectionsep
+\subsection{Project Management Professional (PMP)}
+\location{Expires: Dec 2023}
+\sectionsep
 
-%\subsection{La Martiniere for Boys}
-%\location{Grad. May 2011|  Kolkata, India}
-%\sectionsep
+\subsection{Top Secret Clearance}
+\location{Active | Expires 2024}
+\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     LINKS
@@ -136,21 +131,24 @@ Quality Management \\
 Risk Management \\
 Development and Testing \\
 Sustainment \\
-International Logistics\\
+International Logistics \\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Skills}
-\subsection{Programming}
-\location{Over 5000 lines:}
-Java \textbullet{}   Shell \textbullet{} Python \textbullet{} Javascript \\
-OCaml \textbullet{} Matlab \textbullet{} Rails \textbullet{} \LaTeX\ \\ 
-\location{Over 1000 lines:}
-C \textbullet{} C++ \textbullet{} CSS \textbullet{} PHP \textbullet{} Assembly \\
-\location{Familiar:}
-AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
+\subsection{Leadership}
+Collaboration \textbullet{} Leader Development \textbullet{} Communication \\ 
+Quick Learner \textbullet{} Problem Solving \textbullet{} Self-Starter \\
+\subsection{Software \& Languages}
+%\location{Over 5000 lines:}
+MATLAB \textbullet{}   HTML \+ CSS \textbullet{} Python \textbullet{} perl \\
+Excel (VBA) \textbullet{} Systems Tool Kit \textbullet{} PowerBI \\ 
+%\location{Over 1000 lines:}
+%C \textbullet{} C++ \textbullet{} CSS \textbullet{} PHP \textbullet{} Assembly \\
+%\location{Familiar:}
+%AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -186,22 +184,36 @@ AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
 \end{tightemize}
 \sectionsep
 
-\runsubsection{US Air Force}
-\descript{| Software Engineering Intern }
-\location{May 2013 – Aug 2013 | Mountain View, CA}
+\runsubsection{NATO}
+\descript{| Manager of Aircraft Maintenance }
+\location{May 2018 – Jan 2021 | Geilenkirchen, Germany}
 \begin{tightemize}
-\item Worked on the YouTube Captions team, in Javascript and Python to plan, to design and develop the full stack to add and edit Automatic Speech Recognition captions. In production.
-\item Created a backbone.js-like framework for the Captions editor.
+\item Oversaw 16 international military and civilian members directing 285 personnel from 18 specialties and 10 NATO nations, managing maintenance for 14 NATO E-3 aircraft worth $4.6 billion, and supporting deployed operations and training exercises
+\item Advised Director of NATO Logistics Wing and US Element, providing administration for 311 US and 450 international members.
+\item Trained and oversaw deployment of 25-person prep team for 1st tactical evaluation in 12 years; ensured compliance for key processes. Extended and pivoted mission to respond to live Russian bomber threat and facilitated fighter intercepts.
+\item Managed $130 million communications upgrades on 11 aircraft; scheduled 27 test events and 56 procedural updates with 2 contractors; complied with changing international flight regulations and enabled interoperability with 30 NATO nations.
+\item Analyzed flight-critical landing gear pneudraulic leak on deployed $330 million aircraft; collaborated with engineers to design and complete stress/strain tests to assess pressure stability with 3 ground scenarios; completed cost/benefit analysis considering technical risk, operational requirements, and logistics situation. Returned aircraft safely to base for repair.
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Phabricator}
-\descript{| Open Source Contributor \& Team Leader}
-\location{Jan 2013 – May 2013 | Palo Alto, CA \& Ithaca, NY}
+\runsubsection{US Air Force}
+\descript{| Assistant Manager of Aircraft Maintenance}
+\location{May 2015 – May 2018 | Oklahoma City, OK}
 \begin{tightemize}
-\item Phabricator is used daily by Facebook, Dropbox, Quora, Asana and more.
-\item I created the Meme generator and more in PHP and Shell.
-\item Led a team from MIT, Cornell, IC London and UHelsinki for the project.
+\item Supervised 265 Airmen maintaining 15 E-3 aircraft worth $7.5 billion to deploy, exercise, and execute flight training program.
+\item Planned and executed 1st chemical and radiological training in 5 years; devised local drill according to North Korean threats and achieved 100% of Red Flag exercises; rated “Highly Effective” and ready for immediate deployment 3 months early.
+\item Onboarded and administered $4.1 million predictive software; identified, catalogued, and transferred transactions for natural language processing, digitized technical data for machine readability; predicted engine failure with 75% accuracy.
+\item Led 32 personnel and managed 112 thousand pounds of equipment in support of DEA counterdrug operations in Southern Caribbean; provided logistics and sustainment for E-3 aircraft surveilling 2 billion acres; precipitated $53 million drug seizure.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{KinetX Inc.}
+\descript{| Senior Software Test Engineer}
+\location{Nov 2014 - May 2015 | Leesburg, VA}
+\begin{tightemize}
+\item Deployed and maintained analysis software for 66-satellite constellation; conducted technical and business trade studies.
+\item Analyzed satellite constellation connectivity for global aircraft routes; wrote MATLAB program to upload orbital telemetry and antennae configuration to Systems Tool Kit (STK); investigated $160 million construction and launch proposal.
+\item Maintained and updated 4 essential analysis tools in perl, C, and bash; coded monitoring software to analyze and distribute network volume and latency statistics;  improved performance monitoring and system metrics for global constellation.
 \end{tightemize}
 \sectionsep
 
@@ -209,31 +221,29 @@ AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
 %     RESEARCH
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Research}
-\runsubsection{Cornell Robot Learning Lab}
-\descript{| Researcher}
-\location{Jan 2014 – Jan 2015 | Ithaca, NY}
-Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Ashutosh Saxena}} to create \textbf{PlanIt}, a tool which  learns from large scale user preference feedback to plan robot trajectories in human environments.  
-\sectionsep
+%\section{Research}
+%\runsubsection{Cornell Robot Learning Lab}
+%\descript{| Researcher}
+%\location{Jan 2014 – Jan 2015 | Ithaca, NY}
+%Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Ashutosh Saxena}} to create \textbf{PlanIt}, a tool which  learns from large scale user preference feedback to plan robot trajectories in human environments.  
+%\sectionsep
 
-\runsubsection{Cornell Phonetics Lab}
-\descript{| Head Undergraduate Researcher}
-\location{Mar 2012 – May 2013 | Ithaca, NY}
-Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. 
-\sectionsep
+%\runsubsection{Cornell Phonetics Lab}
+%\descript{| Head Undergraduate Researcher}
+%\location{Mar 2012 – May 2013 | Ithaca, NY}
+%Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. 
+%\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     AWARDS
+%     AWARDS & RATINGS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Awards} 
+\section{Awards \& Ratings} 
 \begin{tabular}{rll}
-2014	     & top 52/2500  & KPCB Engineering Fellow\\
-2014	     & 1\textsuperscript{st}/50  & Microsoft Coding Competition, Cornell\\
-2013	     & National  & Jump Trading Challenge Finalist\\
-2013     & 7\textsuperscript{th}/120 & CS 3410 Cache Race Bot Tournament  \\
-2012     & 2\textsuperscript{nd}/150 & CS 3110 Biannual Intra-Class Bot Tournament \\
-2011     & National & Indian National Mathematics Olympiad (INMO) Finalist \\
+2022	     & Top Junior Officer\\
+2019 \& '20     & Junior Maintenance Manager of the Year  \\
+2018-'21     & Top 10\% of Junior Officers \\
+2015-'18     & Top Junior Officer \\
 \end{tabular}
 \sectionsep
 
@@ -241,11 +251,11 @@ Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-
 %     PUBLICATIONS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Publications} 
-\renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
-\bibliographystyle{abbrv}
-\bibliography{publications}
-\nocite{*}
+%\section{Publications} 
+%\renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
+%\bibliographystyle{abbrv}
+%\bibliography{publications}
+%\nocite{*}
 
 \end{minipage} 
 \end{document}  \documentclass[]{article}
